@@ -18,6 +18,10 @@ h6 {
   font-weight: 700;
   font-family: 'Omar';
 }
+@media (min-width: 992px) {
+body {
+    font-family: 'Omar';
+  }
 
 .text-black-50 { color: rgba($black, .9) !important; }
 
